@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Diff
+import Differ
 
 public class DataSource: NSObject {
     
