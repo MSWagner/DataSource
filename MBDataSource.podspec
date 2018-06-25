@@ -27,6 +27,6 @@ Pod::Spec.new do |s|
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.requires_arc = true
-  s.dependency "Diff", "~> 0.5"
+  s.dependency "Differ", "~> 1.2"
 
 end
